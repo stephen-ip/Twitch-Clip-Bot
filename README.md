@@ -3,6 +3,3 @@ A bot that automatically uploads the top Twitch clips to its Youtube Channel. In
 
 
 Technology Used: Python, Twitch API, Reddit API (PRAW), Youtube API, youtube-dl, Google Compute Engine (VM Instance)
-
-Link to Channel:
-https://www.youtube.com/channel/UCi5yUb5-6umox6uICceMaVA
